@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Arnav Pandey  
 
-<!--
-**arnav-p-45/arnav-p-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Software Engineer | 🤖 AI/ML Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning: **Machine Learning, Deep Learning, DSA**  
+- 🧠 Interested in: **AI, Data Science, Competitive Programming**  
+- 💡 Exploring: **Real-world ML projects & system design**  
+- 🎯 Goal: Crack top tech companies & build impactful products  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+- Python 🐍  
+- C++ ⚡  
+- Java ☕  
+
+### 📚 Libraries & Frameworks  
+- TensorFlow / Keras  
+- Scikit-learn  
+- Pandas / NumPy  
+
+### 🧰 Tools  
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+
+---
+
+## 📊 GitHub Stats  
+
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnav-p-45&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-p-45&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=arnav-p-45&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects  
+
+### 🧠 AI Projects  
+- 🔹 **Stock Market Predictor** 
+- 🔹 **Stargazer AI**  
+- 🔹 **Voyager Elite**  
+
+### 💻 DSA Practice  
+- 🔹 LeetCode / Codeforces solutions  
+- 🔹 Interview-focused problems  
+
+---
+
+## 📫 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/arnav-pandey-280535281/  
+- 📧 Email: arnpan4505@gmail.com
+
+---
+
+## ⚡ Fun Fact  
+> I debug faster with coffee ☕  
+
+---
+
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
