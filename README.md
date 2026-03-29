@@ -33,13 +33,11 @@
 
 ## 📊 GitHub Stats  
 
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnav-p-45&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnav-p-45&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-p-45&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnav-p-45&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-p-45&layout=compact&theme=radical)
+![Stats](https://stats.vercel.app/api?username=YOUR_USERNAME)
 
 ---
 
