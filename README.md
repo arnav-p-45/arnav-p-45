@@ -37,7 +37,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-p-45&layout=compact&theme=tokyonight)
 
-![Stats](https://stats.vercel.app/api?username=YOUR_USERNAME)
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnav-p-45&show_icons=true&theme=radical)
 
 ---
 
