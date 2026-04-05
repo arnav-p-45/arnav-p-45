@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arnav Pandey  
 
-🎓 Student | 💻 Aspiring Software Engineer | 🤖 AI/ML Enthusiast  
+## 🎓 Student | 💻 Aspiring Software Engineer | 🤖 AI/ML Enthusiast  
 
 ![](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzUzODMzMzEsIm5iZiI6MTc3NTM4MzAzMSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA1VDA5NTcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmZDE2MzU5NmNiNmEwODRhN2UzNWMyODVjY2EwZTk0ZjE0NzFhMGQ2ZWJmMzZkYjc5ZmYxNzhkNDUyODYyMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9oQD7xXYJfgQPr1_t4Db3ueRA3m3hHxf1rBlkRpNeTo)
 
