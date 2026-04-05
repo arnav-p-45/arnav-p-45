@@ -37,7 +37,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-p-45&layout=compact&theme=tokyonight)
 
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnav-p-45&show_icons=true&theme=radical)
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnav-p-45&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -72,3 +72,4 @@
 ---
 
 ⭐️ From [Arnav Pandey](https://github.com/arnav-p-45)
+![](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)
